@@ -12,7 +12,8 @@ The solution: The Manoa's Got Music application allows students to login and cre
 - [React Hook Form](https://react-hook-form.com/) for React-based form design and display.
 - [Prisma](https://www.prisma.io/) for type safe database manipulation.
 
-{% It also provides code that implements a variety of useful design concepts, including:
+{% comment %} 
+It also provides code that implements a variety of useful design concepts, including:
 
 - Three primary tables (Profiles, Projects, Interests) as well as three "join" tables (ProfilesInterests, ProfilesProjects, and ProjectsInterests) that implement many-to-many relationships between them.
 - Top-level index pages (Profiles, Interests, and Projects) that show how to manipulate these six tables in various ways.
@@ -21,7 +22,8 @@ The solution: The Manoa's Got Music application allows students to login and cre
 - Use of Prisma to illustrate how to simplify implementation of multiple table updates.
 - Use of indexes to enforce uniqueness of certain fields in the tables, enabling them to serve as primary keys.
 - Authentication using the built-in [NextAuth.js](https://next-auth.js.org/) along with Sign Up and Sign In pages.
-- Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter). %}
+- Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
+{% endcomment %}
 
 ## User Guide
 
@@ -31,9 +33,12 @@ This section provides a walkthrough of the Manoa's Got Music user interface and 
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-{% ![](doc/landing-page.png) %}
+{% comment %}
+![](doc/landing-page.png) 
+{% endcomment %}
 
-{% ### Index pages (Projects, Profiles, Interests)
+{% comment %}
+### Index pages (Projects, Profiles, Interests)
 
 Bowfolios provides three public pages that present the contents of the database organized in various ways.
 
@@ -322,4 +327,4 @@ There are a number of simple enhancements you can make to the system to become b
 ## Team
 
 BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
-%}
+{% endcomment %}
