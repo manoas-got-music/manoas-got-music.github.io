@@ -11,3 +11,6 @@ The solution: The Manoa's Got Music application allows students to login and cre
 - [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
 - [React Hook Form](https://react-hook-form.com/) for React-based form design and display.
 - [Prisma](https://www.prisma.io/) for type safe database manipulation.
+
+## Team
+Manoa's Got Music is designed and implemented by [Justin Mito](https://github.com/justinvmito), [Alexander Edwards](https://github.com/alex-edwards-44), [Colin Ohlund](https://github.com/Cohlund876), [Jayda Decker](https://github.com/jaydald), [Yueming Guo](https://github.com/YuemingGuo9).
