@@ -13,7 +13,7 @@ The solution: The Manoa's Got Music application allows students to login and cre
 - [Prisma](https://www.prisma.io/) for type safe database manipulation.
 
 ## Organization
-The Manoa's Got Music organization can be found at [https://github.com/manoas-got-music](https://github.com/manoas-got-music).
+The Manoa's Got Music organization can be found [here](https://github.com/manoas-got-music).
 
 ## Team
 Manoa's Got Music is designed and implemented by [Justin Mito](https://github.com/justinvmito), [Alexander Edwards](https://github.com/alex-edwards-44), [Colin Ohlund](https://github.com/Cohlund876), [Jayda Decker](https://github.com/jaydald), [Yueming Guo](https://github.com/YuemingGuo9).
