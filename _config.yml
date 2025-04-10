@@ -1,0 +1,10 @@
+title: Manoa's Got Music
+description: A place for the musically minded of UH to meet and coordinate
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/manoas-got-music/manoas-got-music.github.io
+gems:
+  - jekyll-mentions
