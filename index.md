@@ -14,7 +14,14 @@ The solution: The Manoa's Got Music application allows students to login and cre
 
 ## Organization
 The Manoa's Got Music organization can be found [here](https://github.com/manoas-got-music).
+## Deployment
 
+## User Guide
+
+## M1 Project
+A link to our M1 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/1).
+## M2 Project
+A link to our M2 Project Page can be found [TODO[().
 ## Team
 Manoa's Got Music is designed and implemented by [Justin Mito](https://github.com/justinvmito), [Alexander Edwards](https://github.com/alex-edwards-44), [Colin Ohlund](https://github.com/Cohlund876), [Jayda Decker](https://github.com/jaydald), [Yueming Guo](https://github.com/YuemingGuo9).
 
