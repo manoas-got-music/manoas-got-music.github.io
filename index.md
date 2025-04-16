@@ -21,7 +21,7 @@ The Manoa's Got Music organization can be found [here](https://github.com/manoas
 ## M1 Project
 A link to our M1 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/1).
 
-## M1 Mockups (chat gpt make this bold)
+## M1 Mockups 
 Sign in 
 
 
