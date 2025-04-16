@@ -28,7 +28,7 @@ Manoa's Got Music is designed and implemented by:
 - [Alexander Edwards](https://github.com/alex-edwards-44)
 - [Colin Ohlund](https://github.com/Cohlund876)
 - [Jayda Decker](https://github.com/jaydald)
-- [Yueming Guo](https://github.com/YuemingGuo9).
+- [Yueming Guo](https://github.com/YuemingGuo9)
 
 ## Team Contract
 The Manoa's Got Music Team contract can be found [here](https://docs.google.com/document/d/13MF7s-PhaulhlaJWpAjXyL4SHC6C8agoXo6tztl9ILw/edit?tab=t.0).
