@@ -17,7 +17,7 @@ The Manoa's Got Music organization can be found [here](https://github.com/manoas
 ## Deployment
 
 ## User Guide
-
+Manoas’ got Music is a free, student developed program that allows Students at UH to Share their music, talk to and meet with other students, and arrange Jam sessions. Simply start by making a profile with your skills/genres/goals, as well as any performances you wish to share, and use that to connect with others. You can filter by genre, instruments, goals, or you can just look around and find a user who interests you in another way. Finally, you can schedule to meet up and jam with another user if you want, whether it be a casual meetup or the beginnings of the next great band is for you to decide!
 ## M1 Project
 A link to our M1 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/1).
 
