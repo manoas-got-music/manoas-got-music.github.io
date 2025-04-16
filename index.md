@@ -53,7 +53,7 @@ Jam Sessions:
 <p align="center">
   <img src="img/amSessionMockup.png" width="500"/>
   <br/>
-  <em>AM Session Page</em>
+  <em>Jam Session Page</em>
 </p>
 
 
