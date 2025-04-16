@@ -22,7 +22,39 @@ Manoas’ got Music is a free, student developed program that allows Students at
 A link to our M1 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/1).
 
 ## M1 Mockups 
-Sign in 
+**M1 mockups**
+
+Here are the main mockups for our M1 project, showcasing key pages and features of the application:
+Sign in:
+<p align="center">
+  <img src="img/SignInMockup.png" width="500"/>
+  <br/>
+  <em>Sign In Page</em>
+</p>
+Sign Up:
+<p align="center">
+  <img src="img/SignUpMockup.png" width="500"/>
+  <br/>
+  <em>Sign Up Page</em>
+</p>
+Browse Musicians:
+<p align="center">
+  <img src="img/BrowseMusiciansMockup.png" width="500"/>
+  <br/>
+  <em>Browse Musicians Page</em>
+</p>
+User Profile:
+<p align="center">
+  <img src="img/UserProfileMockup.png" width="500"/>
+  <br/>
+  <em>User Profile Page</em>
+</p>
+Jam Sessions:
+<p align="center">
+  <img src="img/amSessionMockup.png" width="500"/>
+  <br/>
+  <em>AM Session Page</em>
+</p>
 
 
 ## M2 Project
