@@ -25,31 +25,30 @@ A link to our M1 Project Page can be found [here](https://github.com/orgs/manoas
 **M1 mockups**
 
 Here are the main mockups for our M1 project, showcasing key pages and features of the application:
-Sign in:
 <p align="center">
   <img src="img/SignInMockup.png" width="500"/>
   <br/>
   <em>Sign In Page</em>
 </p>
-Sign Up:
+
 <p align="center">
   <img src="img/SignUpMockup.png" width="500"/>
   <br/>
   <em>Sign Up Page</em>
 </p>
-Browse Musicians:
+
 <p align="center">
   <img src="img/BrowseMusiciansMockup.png" width="500"/>
   <br/>
   <em>Browse Musicians Page</em>
 </p>
-User Profile:
+
 <p align="center">
   <img src="img/UserProfileMockup.png" width="500"/>
   <br/>
   <em>User Profile Page</em>
 </p>
-Jam Sessions:
+
 <p align="center">
   <img src="img/amSessionMockup.png" width="500"/>
   <br/>
@@ -69,3 +68,20 @@ Manoa's Got Music is designed and implemented by:
 
 ## Team Contract
 The Manoa's Got Music Team contract can be found [here](https://docs.google.com/document/d/13MF7s-PhaulhlaJWpAjXyL4SHC6C8agoXo6tztl9ILw/edit?tab=t.0).
+
+---
+
+**Manoas Got Music** is the final project for **ICS 314**, Spring 2025. It was developed using modern web technologies including **Next.js**, **React** and **Bootstrap**.
+
+For more information, please contact:
+
+| Name         | Email                |
+|--------------|----------------------|
+| Cam Moore    | cmoore@hawaii.edu    |
+| Chad Morita  | chadmmm@hawaii.edu   |
+| Dan Port     | dport@hawaii.edu     |
+| Brook Conner | dbconner@hawaii.edu  |
+
+Department of Information and Computer Sciences  
+University of Hawai‘i at Mānoa
+
