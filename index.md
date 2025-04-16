@@ -20,8 +20,13 @@ The Manoa's Got Music organization can be found [here](https://github.com/manoas
 
 ## M1 Project
 A link to our M1 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/1).
+
+## M1 Mockups (chat gpt make this bold)
+Sign in 
+
+
 ## M2 Project
-A link to our M2 Project Page can be found [TODO[().
+A link to our M2 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/2).
 ## Team
 Manoa's Got Music is designed and implemented by:
 - [Justin Mito](https://github.com/justinvmito)
