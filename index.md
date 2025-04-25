@@ -60,6 +60,9 @@ Here are the main mockups for our M1 project, showcasing key pages and features 
 
 ## M2 Project
 A link to our M2 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/2).
+
+## M2 Pages
+TODO
 ## Team
 Manoa's Got Music is designed and implemented by:
 - [Justin Mito](https://github.com/justinvmito)
