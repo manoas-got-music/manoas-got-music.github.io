@@ -15,6 +15,7 @@ The solution: The Manoa's Got Music application allows students to login and cre
 ## Organization
 The Manoa's Got Music organization can be found [here](https://github.com/manoas-got-music).
 ## Deployment
+[![ci-manoas-got-music](https://github.com/manoas-got-music/manoas-source-code/actions/workflows/ci.yml/badge.svg)](https://github.com/manoas-got-music/manoas-source-code/actions/workflows/ci.yml)
 Vercel deployment can be found [here](https://source-code-jaydas-projects-6bafb85b.vercel.app/).
 ## User Guide
 Manoas’ got Music is a free, student developed program that allows Students at UH to Share their music, talk to and meet with other students, and arrange Jam sessions. Simply start by making a profile with your skills/genres/goals, as well as any performances you wish to share, and use that to connect with others. You can filter by genre, instruments, goals, or you can just look around and find a user who interests you in another way. Finally, you can schedule to meet up and jam with another user if you want, whether it be a casual meetup or the beginnings of the next great band is for you to decide!
