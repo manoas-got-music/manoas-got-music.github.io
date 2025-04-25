@@ -79,7 +79,7 @@ The Manoa's Got Music Team contract can be found [here](https://docs.google.com/
 ---
 
 **Manoas Got Music** is the final project for **ICS 314**, Spring 2025. It was developed using modern web technologies including **Next.js**, **React** and **Bootstrap**.
-![ci-badge](https://github.com/manoas-got-music/source-code/blob/main/.github/workflows/ci.yml/Manoa's-got-music)
+![ci-badge](https://github.com/manoas-got-music/source-code/blob/main/.github/workflows/ci.yml)
 For more information, please contact:
 
 | Name         | Email                |
