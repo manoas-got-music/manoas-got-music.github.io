@@ -63,6 +63,8 @@ A link to our M2 Project Page can be found [here](https://github.com/orgs/manoas
 
 ## M2 Pages
 TODO
+## M3 Project
+A link to our M3 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/3)
 ## Team
 Manoa's Got Music is designed and implemented by:
 - [Justin Mito](https://github.com/justinvmito)
