@@ -33,7 +33,7 @@ Vercel deployment can be found [here](https://source-code-jaydas-projects-6bafb8
 ## User Guide
 Manoas’ got Music is a free, student developed program that allows Students at UH to Share their music, talk to and meet with other students, and arrange Jam sessions. Simply start by making a profile with your skills/genres/goals, as well as any performances you wish to share, and use that to connect with others. You can filter by genre, instruments, goals, or you can just look around and find a user who interests you in another way. Finally, you can schedule to meet up and jam with another user if you want, whether it be a casual meetup or the beginnings of the next great band is for you to decide!
 ## M1 Project
-https://github.com/orgs/manoas-got-music/projects/1
+M1 project board can be found [here](https://github.com/orgs/manoas-got-music/projects/1)
 
 ## M1 Mockups 
 **M1 mockups**
@@ -71,12 +71,12 @@ Here are the main mockups for our M1 project, showcasing key pages and features 
 
 
 ## M2 Project
-https://github.com/orgs/manoas-got-music/projects/2
+M2 project board can be found [here](https://github.com/orgs/manoas-got-music/projects/2)
 
 ## M2 Pages
 In progress
 ## M3 Project
-https://github.com/orgs/manoas-got-music/projects/3
+M3 project board can be found [here](https://github.com/orgs/manoas-got-music/projects/3)
 ## Team
 Manoa's Got Music is designed and implemented by:
 - [Justin Mito](https://github.com/justinvmito)
