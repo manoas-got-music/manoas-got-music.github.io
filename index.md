@@ -12,6 +12,17 @@ The solution: The Manoa's Got Music application allows students to login and cre
 - [React Hook Form](https://react-hook-form.com/) for React-based form design and display.
 - [Prisma](https://www.prisma.io/) for type safe database manipulation.
 
+## Goals
+- Create an environment that fosters community and allows for like minded musicians to share their music and work together
+- Allows for easy communication and collaboration
+- Help users to explore new sounds and genres to expand their horizons
+
+## Features
+- Create a musical profile with genres, instruments, and goals
+- Share YouTube/SoundCloud links to performances
+- Browse and filter other musicians by interests, skills, and availability
+- Contact users directly to organize jam sessions
+
 ## Organization
 The Manoa's Got Music organization can be found [here](https://github.com/manoas-got-music).
 ## Deployment Status
@@ -21,7 +32,7 @@ Vercel deployment can be found [here](https://source-code-jaydas-projects-6bafb8
 ## User Guide
 Manoas’ got Music is a free, student developed program that allows Students at UH to Share their music, talk to and meet with other students, and arrange Jam sessions. Simply start by making a profile with your skills/genres/goals, as well as any performances you wish to share, and use that to connect with others. You can filter by genre, instruments, goals, or you can just look around and find a user who interests you in another way. Finally, you can schedule to meet up and jam with another user if you want, whether it be a casual meetup or the beginnings of the next great band is for you to decide!
 ## M1 Project
-A link to our M1 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/1).
+https://github.com/orgs/manoas-got-music/projects/1
 
 ## M1 Mockups 
 **M1 mockups**
@@ -59,12 +70,12 @@ Here are the main mockups for our M1 project, showcasing key pages and features 
 
 
 ## M2 Project
-A link to our M2 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/2).
+https://github.com/orgs/manoas-got-music/projects/2
 
 ## M2 Pages
-TODO
+In progress
 ## M3 Project
-A link to our M3 Project Page can be found [here](https://github.com/orgs/manoas-got-music/projects/3)
+https://github.com/orgs/manoas-got-music/projects/3
 ## Team
 Manoa's Got Music is designed and implemented by:
 - [Justin Mito](https://github.com/justinvmito)
