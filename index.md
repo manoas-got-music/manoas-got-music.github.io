@@ -1,5 +1,6 @@
 ## Manoa's Got Music
 
+
 ## Overview
 
 The problem: Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. Thus, they cannot experience the fun of informal jam sessions which could progress into performing musical groups.
