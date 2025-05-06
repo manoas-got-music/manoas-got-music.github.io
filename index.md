@@ -1,97 +1,156 @@
-## Manoa's Got Music
 
+# 🎶 Manoa's Got Music
 
-## Overview
+##  Overview
 
-The problem: Many UH students have musical talents, but there is no easy way for them to find others with similar tastes and compatible musical abilities. Thus, they cannot experience the fun of informal jam sessions which could progress into performing musical groups.
+**The Problem**: Many UH students are musically talented, but lack an easy way to find others with similar tastes and compatible musical abilities. This prevents informal jam sessions and the formation of musical groups.
 
-The solution: The Manoa's Got Music application allows students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship. This application makes use of various tools, including:
+**The Solution**:  
+*Manoa's Got Music* is a web application that allows students to:
+- Create a profile with their musical tastes, skills, and goals.
+- Share links to performances (YouTube/SoundCloud).
+- Connect with other students for collaboration or jam sessions.
 
-- [Next.js](https://nextjs.org/) for Typescript-based implementation of client and server code.
-- [React](https://reactjs.org/) for component-based UI implementation and routing.
-- [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
-- [React Hook Form](https://react-hook-form.com/) for React-based form design and display.
-- [Prisma](https://www.prisma.io/) for type safe database manipulation.
+###  Technologies Used
+- [Next.js](https://nextjs.org/) – TypeScript-based framework for server and client code
+- [React](https://reactjs.org/) – Component-based UI library
+- [React Bootstrap](https://react-bootstrap.github.io/) – UI framework for styling
+- [React Hook Form](https://react-hook-form.com/) – Form management
+- [Prisma](https://www.prisma.io/) – Type-safe ORM for database interaction
 
-## Goals
-- Create an environment that fosters community and allows for like minded musicians to share their music and work together
-- Allows for easy communication and collaboration
-- Help users to explore new sounds and genres to expand their horizons
+##  Project Goals
+- Foster musical collaboration among UH students
+- Enable exploration of new genres and instruments
+- Make it easy to find compatible musicians for jamming or bands
 
-## Features
-- Create a musical profile with genres, instruments, and goals
-- Share YouTube/SoundCloud links to performances
-- Browse and filter other musicians by interests, skills, and availability
-- Contact users directly to organize jam sessions
+##  Features
+- 🎵 Create a musical profile (genres, instruments, goals)
+- 🔗 Share performance links (YouTube, SoundCloud)
+- 🔍 Filter and browse musicians by interests and availability
+- 📬 Contact other users to organize jam sessions
 
-## Organization
-The Manoa's Got Music organization can be found [here](https://github.com/manoas-got-music).
-## Deployment Status
-[![ci-manoas-got-music](https://github.com/manoas-got-music/manoas-source-code/actions/workflows/ci.yml/badge.svg)](https://github.com/manoas-got-music/manoas-source-code/actions/workflows/ci.yml)
-## Deployment
-Vercel deployment can be found [here](https://source-code-jaydas-projects-6bafb85b.vercel.app/).
-## User Guide
-Manoas’ got Music is a free, student developed program that allows Students at UH to Share their music, talk to and meet with other students, and arrange Jam sessions. Simply start by making a profile with your skills/genres/goals, as well as any performances you wish to share, and use that to connect with others. You can filter by genre, instruments, goals, or you can just look around and find a user who interests you in another way. Finally, you can schedule to meet up and jam with another user if you want, whether it be a casual meetup or the beginnings of the next great band is for you to decide!
-## M1 Project
-M1 project board can be found [here](https://github.com/orgs/manoas-got-music/projects/1)
+##  Organization & Repositories
+- GitHub Organization: [manoas-got-music](https://github.com/manoas-got-music)
+- Source Code: [manoas-source-code](https://github.com/manoas-got-music/manoas-source-code)
 
-## M1 Mockups 
-**M1 mockups**
+## 🌐 Deployment
+- **Live App**: [Vercel Deployment](https://source-code-jaydas-projects-6bafb85b.vercel.app/)
+- **CI Status**:  
+  [![CI](https://github.com/manoas-got-music/manoas-source-code/actions/workflows/ci.yml/badge.svg)](https://github.com/manoas-got-music/manoas-source-code/actions/workflows/ci.yml)
 
-Here are the main mockups for our M1 project, showcasing key pages and features of the application:
-<p align="center">
-  <img src="img/SignInMockup.png" width="500"/>
-  <br/>
-  <em>Sign In Page</em>
-</p>
+## 👥 User Guide
+*Manoa’s Got Music* is a free platform created by UH students for UH students.  
+You can:
+1. Create a profile with your instruments, genres, and goals.
+2. Add videos or audio links of your music.
+3. Explore profiles and message others to set up jam sessions.
 
-<p align="center">
-  <img src="img/SignUpMockup.png" width="500"/>
-  <br/>
-  <em>Sign Up Page</em>
-</p>
+Whether you're casually looking to jam or forming the next great band — it's your choice!
 
-<p align="center">
-  <img src="img/BrowseMusiciansMockup.png" width="500"/>
-  <br/>
-  <em>Browse Musicians Page</em>
-</p>
+## 📅 Project Boards
+- **[M1 Project Board](https://github.com/orgs/manoas-got-music/projects/1)**
+- **[M2 Project Board](https://github.com/orgs/manoas-got-music/projects/2)**
+- **[M3 Project Board](https://github.com/orgs/manoas-got-music/projects/3)**
 
-<p align="center">
-  <img src="img/UserProfileMockup.png" width="500"/>
-  <br/>
-  <em>User Profile Page</em>
-</p>
+##  Mockups (M1)
+> **Click to enlarge** (hosted locally via `img/` folder):
 
-<p align="center">
-  <img src="img/amSessionMockup.png" width="500"/>
-  <br/>
-  <em>Jam Session Page</em>
-</p>
+<p align="center"><img src="img/SignInMockup.png" width="500"/><br/><em>Sign In Page</em></p>
+<p align="center"><img src="img/SignUpMockup.png" width="500"/><br/><em>Sign Up Page</em></p>
+<p align="center"><img src="img/BrowseMusiciansMockup.png" width="500"/><br/><em>Browse Musicians Page</em></p>
+<p align="center"><img src="img/UserProfileMockup.png" width="500"/><br/><em>User Profile Page</em></p>
+<p align="center"><img src="img/amSessionMockup.png" width="500"/><br/><em>Jam Session Page</em></p>
 
+##  Developer Guide
 
-## M2 Project
-M2 project board can be found [here](https://github.com/orgs/manoas-got-music/projects/2)
+Welcome to the developer guide for *Manoa’s Got Music*!  
+This guide walks you through setting up, running, and contributing to the project.
 
-## M2 Pages
-In progress
-## M3 Project
-M3 project board can be found [here](https://github.com/orgs/manoas-got-music/projects/3)
-## Team
-Manoa's Got Music is designed and implemented by:
-- [Justin Mito](https://github.com/justinvmito)
-- [Alexander Edwards](https://github.com/alex-edwards-44)
-- [Colin Ohlund](https://github.com/Cohlund876)
-- [Jayda Decker](https://github.com/jaydald)
-- [Yueming Guo](https://github.com/YuemingGuo9)
+###  Prerequisites
+Make sure the following are installed:
+- [Node.js](https://nodejs.org/) (LTS or version specified in `package.json`)
+- npm or yarn
+- [PostgreSQL](https://www.postgresql.org/) (for the database)
+- Git
+- Optional: VS Code, GitHub Desktop
 
-## Team Contract
-The Manoa's Got Music Team contract can be found [here](https://docs.google.com/document/d/13MF7s-PhaulhlaJWpAjXyL4SHC6C8agoXo6tztl9ILw/edit?tab=t.0).
+###  Getting Started
 
----
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/manoas-got-music/manoas-source-code.git
+   cd manoas-source-code
+   ```
 
-**Manoas Got Music** is the final project for **ICS 314**, Spring 2025. It was developed using modern web technologies including **Next.js**, **React** and **Bootstrap**.
-For more information, please contact:
+2. **Install Dependencies**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Set Up Environment Variables**
+   ```bash
+   cp .env.example .env
+   ```
+   Then edit `.env` with your database info:
+   ```
+   DATABASE_URL=postgresql://<user>:<password>@localhost:5432/manoasgotmusic
+   NEXTAUTH_SECRET=<generate-a-secret>
+   NEXTAUTH_URL=http://localhost:3000
+   ```
+
+4. **Database Setup**
+   ```bash
+   npx prisma db push
+   # Optional: Seed with test data
+   npx prisma db seed
+   ```
+
+5. **Run the App**
+   ```bash
+   npm run dev
+   ```
+   Visit [http://localhost:3000](http://localhost:3000) to access the app locally.
+
+###  Project Structure
+
+```plaintext
+src/
+├── app/                # Route and layout logic
+├── components/         # UI components (e.g. Navbar, Profile)
+├── lib/                # Utilities and Prisma client
+pages/api/              # API routes
+prisma/                 # Database schema and migrations
+public/img/             # Images and mockups
+```
+
+###  Code Standards
+- Run linter before committing:
+  ```bash
+  npm run lint
+  ```
+- Follow Issue-Driven Project Management (IDPM).
+- Use GitHub Projects for task tracking.
+
+## 👨‍👩‍👧‍👦 Team
+
+| Name              | GitHub Profile                                          |
+|-------------------|---------------------------------------------------------|
+| Justin Mito       | [@justinvmito](https://justinvmito.github.io)           |
+| Alexander Edwards | [@alex-edwards-44](https://alex-edwards-44.github.io)   |
+| Colin Ohlund      | [@Cohlund876](https://Cohlund876.github.io)             |
+| Jayda Decker      | [@jaydald](https://jaydald.github.io)                   |
+| Yueming Guo       | [@YuemingGuo9](https://github.com/YuemingGuo9)         |
+
+📄 **[Team Contract](https://docs.google.com/document/d/13MF7s-PhaulhlaJWpAjXyL4SHC6C8agoXo6tztl9ILw/edit?tab=t.0)**
+
+## 🏫 ICS 314 Spring 2025
+
+This project was developed as part of **ICS 314: Software Engineering**  
+**University of Hawai‘i at Mānoa**
+
+### Contact Instructors
 
 | Name         | Email                |
 |--------------|----------------------|
@@ -99,7 +158,3 @@ For more information, please contact:
 | Chad Morita  | chadmmm@hawaii.edu   |
 | Dan Port     | dport@hawaii.edu     |
 | Brook Conner | dbconner@hawaii.edu  |
-
-Department of Information and Computer Sciences  
-University of Hawai‘i at Mānoa
-
