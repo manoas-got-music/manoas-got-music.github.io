@@ -131,6 +131,22 @@ public/img/             # Images and mockups
 - Follow Issue-Driven Project Management (IDPM).
 - Use GitHub Projects for task tracking.
 
+
+## Community Feedback
+
+As part of our community testing, we asked five individuals outside of ICS 314 to try out Manoa’s Got Music and provide feedback on their experience.
+
+### Key Findings
+- **In-App Messaging**: The most common request was the addition of a private messaging feature inside the app. Testers expressed that they would feel more comfortable communicating within the app, rather than having to share private contact information up front.
+- **Public Events Calendar**: Several testers recommended a feature to display a public calendar of musical events and performances around Oahu. They suggested allowing users to browse and submit events to foster musical collaboration and awareness.
+- **User Interface Improvements**: Some feedback pointed to areas where the app’s UI could be made more visually polished, including better format on mobile devices.
+
+### Future Considerations
+We greatly appreciate this feedback and have added these recommendations to our future development roadmap:
+- Integrate a secure in-app messaging system.
+- Develop a community events calendar.
+- Refine and enhance the user interface for an even better user experience.
+
 ## 👨‍👩‍👧‍👦 Team
 
 | Name              | GitHub Profile                                          |
