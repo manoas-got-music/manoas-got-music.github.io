@@ -34,7 +34,7 @@
 - Source Code: [manoas-source-code](https://github.com/manoas-got-music/manoas-source-code)
 
 ## 🌐 Deployment
-- **Live App**: [Vercel Deployment](https://source-code-jaydas-projects-6bafb85b.vercel.app/)
+- **Live App**: [Vercel Deployment](https://manoas-source-code-c37p37aok-jaydas-projects-6bafb85b.vercel.app/)
 - **CI Status**: [![manoa's got music](https://github.com/manoas-got-music/manoas-source-code/actions/workflows/ci.yml/badge.svg)](https://github.com/manoas-got-music/manoas-source-code/actions/workflows/ci.yml)
 ## 👥 User Guide
 *Manoa’s Got Music* is a free platform created by UH students for UH students.  
