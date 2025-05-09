@@ -159,6 +159,44 @@ We greatly appreciate this feedback and have added these recommendations to our 
 
 📄 **[Team Contract](https://docs.google.com/document/d/13MF7s-PhaulhlaJWpAjXyL4SHC6C8agoXo6tztl9ILw/edit?tab=t.0)**
 
+##  M3 Checkpoint
+## Deliverables
+The final milestone, M3, represents the culmination of all development efforts for Manoa’s Got Music. This includes complete feature implementation, UI polish, testing, and user feedback integration.
+
+## Final Features
+🎼 Fully functional musical profile creation and matching
+
+🔍 Filter musicians by genres and goals
+
+🔗 Performance links display directly on user profiles
+
+## UI/UX Improvements
+
+Updated mobile layout for better accessibility
+
+Improved spacing and visual hierarchy across components
+
+Added feedback indicators for form submission and validation
+
+## Testing & QA
+
+Manual user testing across 3+ browsers
+
+Community testing with 5+ external users
+
+Linting and CI pipelines enforced for all PRs
+
+Deployed on Vercel with CI status badges
+
+## Community Feedback Integration
+
+Suggestions from external users:
+
+Future in-app messaging and event calendar now planned
+
+Adjusted design based on UI/UX comments
+
+
 ## 🏫 ICS 314 Spring 2025
 
 This project was developed as part of **ICS 314: Software Engineering**  
