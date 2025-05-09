@@ -131,6 +131,51 @@ public/img/             # Images and mockups
 - Follow Issue-Driven Project Management (IDPM).
 - Use GitHub Projects for task tracking.
 
+## User Guide
+
+This guide explains how to navigate and use the core features of **Manoa’s Got Music**. Each section corresponds to a major page or feature currently implemented in the application.
+
+### 1. Landing Page
+
+![Landing Page](img/landingpage2.png)
+
+The landing page gives users a brief introduction to the purpose of Manoa’s Got Music. It explains how the app helps UH students connect through music and encourages them to sign up or log in.
+
+---
+
+### 2. Sign In
+
+![Sign In](img/signin2.png)
+
+The sign-in page allows returning users to log in securely using their credentials. New users can follow the link to create an account.
+
+---
+
+### 3. Dashboard
+
+![Dashboard](img/dashboard2.png)
+
+After logging in, users are directed to their dashboard. From here, they can navigate to their profile, browse other musicians, view jam sessions, or log out.
+
+---
+
+### 4. Browse Musicians
+
+![Browse Musicians](img/browsemusiscians2.png)
+
+On the Browse Musicians page, users can explore profiles of other musicians. Filtering options help users find musicians with similar interests, genres, instruments, or collaboration goals.
+
+---
+
+### 5. Jam Sessions
+
+![Jam Sessions](img/jamsessions2.png)
+
+This page displays current or upcoming jam sessions. Users can browse sessions, learn more about them, and express interest in joining. It's a hub for musical collaboration.
+
+---
+
+
 
 ## Community Feedback
 
